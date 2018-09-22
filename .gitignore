@@ -1,0 +1,15 @@
+# Other files and folders
+.idea/
+.pytest_cache/
+
+# Sublime Text Project files
+*.sublime-project
+*.sublime-workspace
+
+*.zip
+*.rar
+
+##################################
+## Python Virtual Vironments
+##################################
+/venv
