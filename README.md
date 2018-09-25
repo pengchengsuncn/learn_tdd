@@ -1,2 +1,2 @@
 # Learn TDD
-Learn TDD
+Learn Test Driven Development
