@@ -2,6 +2,7 @@
 .idea/
 .pytest_cache/
 
+
 # Sublime Text Project files
 *.sublime-project
 *.sublime-workspace
@@ -13,3 +14,4 @@
 ## Python Virtual Vironments
 ##################################
 /venv
+/__pychace__
